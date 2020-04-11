@@ -39,9 +39,11 @@
 ### Teams
 
 - 팀 구성원 : 김선혁, 김연후, 천지환
+<img src="https://github.com/YeonHoo-Kim/Capston_Design1_Projects/blob/master/images/JK_Hq_20200405_250438869_1211894836.jpg" width="100" height="100"><img src="https://github.com/YeonHoo-Kim/Capston_Design1_Projects/blob/master/images/20141515_%EA%B9%80%EC%97%B0%ED%9B%84.jpg" width="100" height="100"><img src="https://github.com/YeonHoo-Kim/Capston_Design1_Projects/blob/master/images/20141362_%EC%B2%9C%EC%A7%80%ED%99%98.jpg" width="100" height="100">
 - 역할
   - 김선혁 : 앱 개발
   - 김연후 : 서버 구축
-  - 천지환 : 센서 연동  <img src="https://github.com/YeonHoo-Kim/Capston_Design1_Projects/blob/master/20141362_%EC%B2%9C%EC%A7%80%ED%99%98.jpg" width="100" height="100">
+  - 천지환 : 센서 연동
 - 핵심 기여 역량 : 
 - committer 역할 : 김연후
+
