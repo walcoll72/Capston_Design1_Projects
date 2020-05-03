@@ -34,6 +34,8 @@
 #### 시스템구성도
 <img src="https://github.com/YeonHoo-Kim/Capston_Design1_Projects/blob/master/images/%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B5%AC%EC%84%B1%EB%8F%84.jpg" width="800" height="300">
 
+- 블록 다이어그램
+<img src="https://github.com/YeonHoo-Kim/Capston_Design1_Projects/blob/master/images/block_diagram.jpg">
 
 ### Expectations
 
